@@ -10,6 +10,6 @@ A simple website that presents the ideal city using mathematical figures and str
 
 ## Team Members
 
-Nico Lyle Lacsamana
-Kyle Sotto
-Jan Coleen Estilo
+- Nico Lyle Lacsamana
+- Kyle Sotto
+- Jan Coleen Estilo
